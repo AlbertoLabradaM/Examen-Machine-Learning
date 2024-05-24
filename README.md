@@ -2,12 +2,19 @@
 Examen Machine Learning, prediccion sobre el éxito académico de alumnos de dos escuelas tomando en cuenta distintos factores
 
 **1.-escuela:** Escuela del estudiante (binario: 'GP' - Genaro Perez o 'MS' - Miguel Solís).
+
 **2.-sexo:** Sexo del estudiante (binario: 'F' - mujer o 'M' - hombre).
+
 **3.-edad:** Edad del estudiante (numérica: de 15 a 22).
+
 **4.-direccion:** Tipo de dirección del hogar del estudiante (binario: 'U' - urbano o 'R' - rural).
+
 **5.-tamano_familia:** Tamaño de la familia (binario: 'LE3' - menor o igual a 3 o 'GT3' - mayor que 3).
+
 **6.-estatus_padres:** Estado de convivencia de los padres (binario: 'T' - vivir juntos o 'A' - aparte).
+
 **7.-educacion_madre:** Educación de la madre (numérico: 0 - ninguno, 1 - educación primaria (4º grado), 2 - 5º a 9º grado, 3 - educación secundaria, 4 - educación superior).
+
 **8.-educacion_padre:**
       Educación del padre (numérico: 0 - ninguno, 1 - educación primaria (4º grado), 2º - 5º a 9º grado, 3º - educación secundaria, 4º - educación superior)
 **9.-trabajo_madre:**
